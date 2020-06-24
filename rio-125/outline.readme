@@ -1,0 +1,13 @@
+i)      Create an AWS account with Free Tier Limit.
+ii)     Create an instance with Ubuntu/Amazon Linux.
+iii)    Install Docker and its variants, like Docker, Docker CE,Docker Compose.
+iv)     Prepare a dockerfile following best practices, to install and configure java stack components.
+v)      Create a docker image.
+vi)     Manage images and containers.
+vii)    Develop a Java Project with microservice components.
+viii)   Run the image and deploy the project developed.
+
+
+avi.tcs.ion.01@gmail.com/app@2016
+
+AVI_TCS_ION_01
